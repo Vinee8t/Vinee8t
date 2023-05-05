@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 📫 How to reach me **https://vinee8t.github.io/ShoppingSite/homepage.html**
+- 📫 How to reach me **vineetkumar0880@gmail.com**
 
 - ⚡ Fun fact **I think I can Code**
 
